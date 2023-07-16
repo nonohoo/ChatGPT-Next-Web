@@ -59,7 +59,7 @@ const cn = {
       if (submitKey === String(SubmitKey.Enter)) {
         inputHints += "，Shift + Enter 换行";
       }
-      return inputHints + "，/ 触发补全，: 触发命令";
+      return inputHints + "，/ 触发补全，: 触发命令 需要购买API Key请联系微信：GPT1886 另提供GPT注册，GPT4.0代升级，MJ订阅，国外注册接验证码服务";
     },
     Send: "发送",
     Config: {
