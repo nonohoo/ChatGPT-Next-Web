@@ -4,7 +4,7 @@ const cn = {
   WIP: "该功能仍在开发中……",
   Error: {
     Unauthorized:
-      "访问密码不正确或为空，请前往[登录](/#/auth)页输入正确的访问密码，或者在[设置](/#/settings)页填入你自己的 OpenAI API Key。",
+      "访问密码不正确或为空，请前往[登录](/#/auth)页输入正确的访问密码，或者在[设置](/#/settings)页填入你自己的 OpenAI API Key。 如果没有API Key 请访问[http://ai.catopen.top](http://ai.catopen.top)购买。如需要GPT手工注册账号，GPT指定邮箱代注册，GPTPLUS代充值，GPT注册短信接收，谷歌账号，推特账号，飞机账号等等海外业务，请联系微信：GPT1886",
   },
   Auth: {
     Title: "需要密码",
